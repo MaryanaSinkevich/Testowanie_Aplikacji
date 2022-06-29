@@ -1,0 +1,12 @@
+C:\UG\TestowanieAplikacji\tests-examples-master\tests-csharp-example\Test.Project.Library\bin\Debug\Test.Project.Library.dll
+C:\UG\TestowanieAplikacji\tests-examples-master\tests-csharp-example\Test.Project.Library\bin\Debug\Test.Project.Library.pdb
+C:\UG\TestowanieAplikacji\tests-examples-master\tests-csharp-example\Test.Project.Library\obj\Debug\Test.Project.Library.csproj.AssemblyReference.cache
+C:\UG\TestowanieAplikacji\tests-examples-master\tests-csharp-example\Test.Project.Library\obj\Debug\Test.Project.Library.csproj.CoreCompileInputs.cache
+C:\UG\TestowanieAplikacji\tests-examples-master\tests-csharp-example\Test.Project.Library\obj\Debug\Test.Project.Library.dll
+C:\UG\TestowanieAplikacji\tests-examples-master\tests-csharp-example\Test.Project.Library\obj\Debug\Test.Project.Library.pdb
+C:\Users\sinma\Documents\GitHub\Testowanie_Aplikacji\TestowanieAplikacji\Test.Project.Library\bin\Debug\Test.Project.Library.dll
+C:\Users\sinma\Documents\GitHub\Testowanie_Aplikacji\TestowanieAplikacji\Test.Project.Library\bin\Debug\Test.Project.Library.pdb
+C:\Users\sinma\Documents\GitHub\Testowanie_Aplikacji\TestowanieAplikacji\Test.Project.Library\obj\Debug\Test.Project.Library.csproj.AssemblyReference.cache
+C:\Users\sinma\Documents\GitHub\Testowanie_Aplikacji\TestowanieAplikacji\Test.Project.Library\obj\Debug\Test.Project.Library.csproj.CoreCompileInputs.cache
+C:\Users\sinma\Documents\GitHub\Testowanie_Aplikacji\TestowanieAplikacji\Test.Project.Library\obj\Debug\Test.Project.Library.dll
+C:\Users\sinma\Documents\GitHub\Testowanie_Aplikacji\TestowanieAplikacji\Test.Project.Library\obj\Debug\Test.Project.Library.pdb
